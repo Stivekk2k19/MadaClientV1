@@ -1,11 +1,11 @@
 # MadaClientV1
 
-Version: 1.10.6
+Version: 1.11.6
 
-Updater: http://download1655.mediafire.com/y6je00mt77kg/hddgj5kyn5n4781/Updater.jar
+Updater: http://download2261.mediafire.com/m425ur7lgj2g/79grcn6zt2bzul5/Updater.jar
 
-Jar: http://download1845.mediafire.com/uud79mou1dtg/ugx36bcfezbp96i/Mada.jar
+Jar: http://download2261.mediafire.com/iq2bayujnk7g/wasmvghbbhbu35j/MadaClient_1_11_6.jar
 
-Json: http://download939.mediafire.com/na7w6k3ho1ug/oeyps2ef641ys4c/MadaClient.json
+Json: http://download2262.mediafire.com/fi3lixdf70zg/jnu26x389k6f9v1/MadaClient.json
 
 New: Cap, KayStrokesMod verbessert, MoreParticles, neue Modul Einstellungen und vieles MEHR
