@@ -2,10 +2,10 @@
 
 Version: 1.10.6
 
-Updater: http://download1339.mediafire.com/a826hehj3i7g/8pnvs277n63ib8h/MadaUpdater.jar
+Updater: http://download1655.mediafire.com/y6je00mt77kg/hddgj5kyn5n4781/Updater.jar
 
 Jar: http://download1845.mediafire.com/uud79mou1dtg/ugx36bcfezbp96i/Mada.jar
 
-Json: http://download942.mediafire.com/no6etw3twg4g/m2wahdev2l37ypd/Mada.json
+Json: http://download939.mediafire.com/na7w6k3ho1ug/oeyps2ef641ys4c/MadaClient.json
 
-New: Toll, Super, neu
+New: Cap, KayStrokesMod verbessert, MoreParticles, neue Modul Einstellungen und vieles MEHR
