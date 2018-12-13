@@ -8,4 +8,4 @@ Jar: http://download2261.mediafire.com/iq2bayujnk7g/wasmvghbbhbu35j/MadaClient_1
 
 Json: http://download2262.mediafire.com/fi3lixdf70zg/jnu26x389k6f9v1/MadaClient.json
 
-New: Cap, KayStrokesMod verbessert, MoreParticles, neue Modul Einstellungen und vieles MEHR
+New: Test1, Test2, Test3, Test4, Test5, und viel mehr!
