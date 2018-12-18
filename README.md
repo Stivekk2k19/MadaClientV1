@@ -1,5 +1,5 @@
 # MadaClientV1
 
-Version: 1.12.9
+Version: 1.13.0
 
-New: KeyStrokesMod Bug-Fix, update Updater  
+New: Font
