@@ -1,5 +1,5 @@
 # MadaClientV1
 
-Version: 1.13.2
+Version: 1.13.3
 
-New: BuxFix Font, BuxFix Coordinates, add Module Fullbright
+New: neue Schrift, BuxFix Module Hintergrund, Schrift an/aus unter Gui
