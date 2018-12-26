@@ -1,5 +1,5 @@
 # MadaClientV1
 
-Version: 1.13.3
+Version: 1.15.0
 
-New: neue Schrift, BuxFix Module Hintergrund, Schrift an/aus unter Gui
+New: Bug-Fix ..., Logo im IngameMenuGui, Mada Titel im MainMenu
