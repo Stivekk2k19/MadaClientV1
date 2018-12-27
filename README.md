@@ -1,5 +1,5 @@
 # MadaClientV1
 
-Version: 1.15.0
+Version: 1.15.1
 
-New: Bug-Fix ..., Logo im IngameMenuGui, Mada Titel im MainMenu
+New: Bug-Fix crash game
