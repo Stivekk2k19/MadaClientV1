@@ -1,5 +1,5 @@
 # MadaClientV1
 
-Version: 1.15.1
+Version: 1.15.2
 
-New: Bug-Fix crash game, Bug-Fix Logo 
+New: Bug-Fix Logo 
