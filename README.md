@@ -2,4 +2,4 @@
 
 Version: 1.15.1
 
-New: Bug-Fix crash game
+New: Bug-Fix crash game, Bug-Fix Logo 
