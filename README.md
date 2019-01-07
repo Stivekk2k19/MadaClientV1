@@ -1,5 +1,5 @@
 # MadaClientV1
 
-Version: 1.16.0
+Version: 1.18.0
 
-New: RELEASE xD
+New: Module CwMod unter Design, Bug-Fix ...
