@@ -1,5 +1,5 @@
 # MadaClientV1
 
-Version: 1.18.0
+Version: 1.19.2
 
-New: Module CwMod unter Design, Bug-Fix ...
+New: ClickGui, Bug-Fix CwMod, Ping Module, ...
