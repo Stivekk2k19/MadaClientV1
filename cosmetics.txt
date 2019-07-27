@@ -1,1 +1,1 @@
-players: 4d764811-8142-42ef-b6f8-5452bb3676a1 cape wings,0e7ea438-0e17-467d-8790-7e1878c30d8c cape wings,c7d70fbe-8e73-4296-99ad-07f9bae045a1 cape,05ea4e0c-8567-4554-bf94-dc6ce99f37c1 cape 
+players: 4d764811-8142-42ef-b6f8-5452bb3676a1 cape wings,0e7ea438-0e17-467d-8790-7e1878c30d8c cape wings,c7d70fbe-8e73-4296-99ad-07f9bae045a1 cape
